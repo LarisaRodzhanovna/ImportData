@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "STARKOV_Data_importer/1.0.0": {
+        "runtime": {
+          "STARKOV_Data_importer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STARKOV_Data_importer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

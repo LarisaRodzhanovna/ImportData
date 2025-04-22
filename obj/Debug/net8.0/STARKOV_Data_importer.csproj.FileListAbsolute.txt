@@ -1,0 +1,14 @@
+C:\Repos\STARKOV_Data_importer\bin\Debug\net8.0\STARKOV_Data_importer.exe
+C:\Repos\STARKOV_Data_importer\bin\Debug\net8.0\STARKOV_Data_importer.deps.json
+C:\Repos\STARKOV_Data_importer\bin\Debug\net8.0\STARKOV_Data_importer.runtimeconfig.json
+C:\Repos\STARKOV_Data_importer\bin\Debug\net8.0\STARKOV_Data_importer.dll
+C:\Repos\STARKOV_Data_importer\bin\Debug\net8.0\STARKOV_Data_importer.pdb
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.AssemblyInfoInputs.cache
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.AssemblyInfo.cs
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.csproj.CoreCompileInputs.cache
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.dll
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\refint\STARKOV_Data_importer.dll
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.pdb
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\STARKOV_Data_importer.genruntimeconfig.cache
+C:\Repos\STARKOV_Data_importer\obj\Debug\net8.0\ref\STARKOV_Data_importer.dll
